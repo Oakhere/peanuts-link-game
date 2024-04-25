@@ -12,7 +12,7 @@ public class MainGUI extends JFrame {
         setLocationRelativeTo(null); // Center the frame on the screen
 
         // Set background image
-        ImageIcon backgroundImage = new ImageIcon("background.jpg"); // Change "background.jpg" to the path of your image
+        ImageIcon backgroundImage = new ImageIcon("images/background.jpg"); // Change "background.jpg" to the path of your image
         JLabel backgroundLabel = new JLabel(backgroundImage);
         backgroundLabel.setLayout(new BorderLayout());
 

@@ -14,4 +14,4 @@ You have infinite time to eliminate all the images, so no need to hurry. You can
 - Level Mode:
 You can win the game by passing all 5 levels. For each level, you have 5 min. You can pause the game by clicking the “pause” button. You can get hints by clicking the “hint” button. You can shuffle all the remaining images by clicking the “shuffle” button.
 
-## Have fun!
+## Have fun! 🐾
